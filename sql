@@ -2,5 +2,5 @@ create sql
 
 create gcp
 
-create cloudsql 1
+create cloudsql 1 and 2
 
